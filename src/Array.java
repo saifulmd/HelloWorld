@@ -10,6 +10,7 @@ public class Array {
 	a[3] = 50;
 	a[4] = a[3]+a[1];
 	System.out.println(a[4]);
+	// this is array
 
 	}
 
